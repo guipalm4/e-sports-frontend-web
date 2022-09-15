@@ -1,8 +1,8 @@
-function App() {
- 
+import './styles/main.css'
 
+function App() {
   return (
-    <h1>My new App</h1>
+    <h1>E-Sports App</h1>
     
   )
 }
